@@ -17,8 +17,6 @@ class ViewController: UIViewController {
                 
         self.view.addSubview(fantasticView)
     }
-
-
 }
 
 import UIKit
