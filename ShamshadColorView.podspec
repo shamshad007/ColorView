@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'ShamshadColorView'
+  s.name             = 'SColorView'
   s.version          = '0.1.0'
   s.summary          = 'My Color Changing Pod'
   s.homepage         = 'https://github.com/shamshad007/ColorView'
