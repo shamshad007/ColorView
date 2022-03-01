@@ -7,8 +7,6 @@ Pod::Spec.new do |s|
   s.author           = { 'shamshad007' => 'md.akhtar1993@gmail.com' }
   s.source           = { :git => 'https://github.com/shamshad007/ColorView.git', :tag => s.version.to_s }
   s.ios.deployment_target = '13.0'
-  s.platform                = :ios
-  s.requires_arc            = true
   s.source_files = 'ShamshadPOD/**/*.swift'
 
 end
